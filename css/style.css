@@ -1276,7 +1276,9 @@ textarea.form-control {
           font-family: "Playfair Display", times, serif;
           color: rgba(256,256,256,0.5);
         }
-
+.index-text2{
+  color: #fff;
+}
 /* #pookkode{
   font-family: "Playfair Display", times, serif;
   font-weight: bolder;
