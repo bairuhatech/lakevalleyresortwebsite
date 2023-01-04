@@ -1270,6 +1270,13 @@ textarea.form-control {
         color: #fff;
         border-radius: 50%; }
 
+        .index-text1{
+          display: flex;
+          justify-content: center;
+          font-family: "Playfair Display", times, serif;
+          color: rgba(256,256,256,0.5);
+        }
+
 /* #pookkode{
   font-family: "Playfair Display", times, serif;
   font-weight: bolder;
